@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Codebeautify.org Text to HTML Converter</title>
+		<title>Microsoft-Rewards-Farming</title>
 	</head>
 	<body>
 		<p>Installation 
